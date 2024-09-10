@@ -1,0 +1,6 @@
+@WebAPICustomFormatter_HostAddress = http://localhost:5047
+
+GET {{WebAPICustomFormatter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
